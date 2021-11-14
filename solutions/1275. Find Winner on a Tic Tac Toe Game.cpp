@@ -27,12 +27,8 @@ public:
             }
         }
         
-        for(int i = 0 ; i < rows.size() ; i++){
-            if(rows[i].first + rows[i].second != n)
-                return "Pending";
-        }
-        
-        return "Draw";
+ 
+        return n * n == moves.size() ? "Draw" : "Pending" ;
         
     }
     
