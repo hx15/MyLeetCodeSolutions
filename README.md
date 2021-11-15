@@ -11,3 +11,4 @@
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[C++](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.cpp)|160 ms|
 |1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[C++](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.cpp)|160 ms|
 |1476|[ Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[C++](./solutions/1476.%20Subrectangle%20Queries.cpp)|40 ms|
+|2058|[ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|[C++](./solutions/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.cpp)|224 ms|
