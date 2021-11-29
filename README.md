@@ -5,6 +5,7 @@
 |6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[](./solutions/6.%20Zigzag%20Conversion.)||
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|N/A|
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./solutions/45.%20Jump%20Game%20II.cpp)|388 ms|
+|67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[](./solutions/67.%20Add%20Binary.)|0 ms|
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[C++](./solutions/86.%20Partition%20List.cpp)|4 ms|
 |150|[ Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp)|12 ms|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|4 ms|
