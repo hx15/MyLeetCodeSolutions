@@ -1,3 +1,33 @@
+class Solution {
+public:
+    struct outSum{
+        char a;
+        char c;
+        outSum(char a0, char c0){
+            a = a0;
+            c = c0;
+        }
+        outSum(int a0, int c0){
+            a = a0 + '0';
+            c = c0 + '0';
+        }
+    };
+    struct inSum{
+        char a;
+        char b;
+        char c;
+        inSum(char a0, char b0, char c0){
+            a = a0;
+            b = b0;
+            c = c0;
+        }
+    };
+    
+    outSum charBinarySummer(inSum in){
+        int sum;
+        int carry;
+        int a = in.a - '0';
+        int b = in.b - '0';
         int c = in.c - '0';
         sum = a ^ b;
         carry = a & b | sum & c;
