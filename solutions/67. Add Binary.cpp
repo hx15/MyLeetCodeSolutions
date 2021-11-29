@@ -1,3 +1,5 @@
+        int c = in.c - '0';
+        sum = a ^ b;
         carry = a & b | sum & c;
         sum ^= c;
         return outSum(sum,carry);
