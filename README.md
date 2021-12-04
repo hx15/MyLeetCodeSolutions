@@ -8,6 +8,7 @@
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./solutions/67.%20Add%20Binary.cpp)|0 ms|
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[C++](./solutions/86.%20Partition%20List.cpp)|4 ms|
 |150|[ Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp)|12 ms|
+|443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|8 ms|
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|4 ms|
 |717|[ 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[](./solutions/717.%201-bit%20and%202-bit%20Characters.)|4 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|8 ms|
