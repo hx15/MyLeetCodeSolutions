@@ -32,29 +32,3 @@ public:
         return isEndOfWord;
     }
     
-};
-​
-class Trie {
-private:
-    TrieNode* root;
-    
-public:
-    Trie() {
-        root = new TrieNode();
-    }
-    
-    
-    void insert(string word) {
-        TrieNode* curr = root;
-        for(auto c: word)
-        if(curr->getChild(c) == NULL){
-            curr->addChar(c);
-            curr = curr->getChild(c);
-        }
-        else
-            curr = curr->getChild(c);
-        
-        curr->markWord();
-    }
-    
-    bool search(string word) {
