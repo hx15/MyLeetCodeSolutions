@@ -74,3 +74,8 @@ public:
                 return false;
             else curr = curr->getChild(c);
         }
+        
+        return true;
+    }
+};
+​
