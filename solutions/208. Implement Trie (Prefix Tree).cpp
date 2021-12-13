@@ -49,3 +49,28 @@ public:
         for(auto c: word)
         if(curr->getChild(c) == NULL){
             curr->addChar(c);
+            curr = curr->getChild(c);
+        }
+        else
+            curr = curr->getChild(c);
+        
+        curr->markWord();
+    }
+    
+    bool search(string word) {
+        TrieNode* curr = root;
+        for(auto c: word){
+            if(curr->getChild(c) == NULL)
+                return false;
+            else curr = curr->getChild(c);
+        }
+        return curr->isWord();
+    }
+    
+    bool startsWith(string prefix) {
+        TrieNode* curr = root;
+        for(auto c: prefix){
+            if(curr->getChild(c) == NULL)
+                return false;
+            else curr = curr->getChild(c);
+        }
