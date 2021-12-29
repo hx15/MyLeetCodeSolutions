@@ -13,6 +13,7 @@
 |567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|4 ms|
 |717|[ 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[](./solutions/717.%201-bit%20and%202-bit%20Characters.)|4 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[C++](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)|8 ms|
+|935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|500 ms|
 |1275|[ Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[C++](./solutions/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.cpp)|0 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[C++](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.cpp)|160 ms|
 |1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[C++](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.cpp)|160 ms|
